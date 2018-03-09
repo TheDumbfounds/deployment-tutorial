@@ -1,0 +1,12 @@
+.calendar_entry {
+  background-color: #eee;
+  padding: 15px;
+  margin-bottom:30px;
+}
+body, html {
+  width: 100%;
+  display: grid;
+}
+.page-center {
+  margin: auto;
+}
